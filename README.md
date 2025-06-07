@@ -1,5 +1,5 @@
 📊 Super Store Sales Dashboard & Forecast
-
+---
 This Power BI project offers a comprehensive analysis of Super Store sales performance along with a 15-day future sales forecast. It provides key business insights using interactive visuals, enabling data-driven decision-making.
 
 
@@ -17,7 +17,7 @@ These dashboards allow business stakeholders to track performance KPIs, understa
 
 
 🔍 Features
-
+---
 📌 Dashboard 1: Sales Overview
 . Key Metrics (KPIs):
 
@@ -50,7 +50,7 @@ These dashboards allow business stakeholders to track performance KPIs, understa
 
 
 🔮 Dashboard 2: 15-Day Sales Forecast
-
+---
 . Forecasting using historical data trends
 
 . Visualizes:
@@ -70,7 +70,7 @@ These dashboards allow business stakeholders to track performance KPIs, understa
 
 
 🧰 Tools Used
-
+---
 . Power BI Desktop
 
 . DAX for calculated columns/measures
@@ -82,7 +82,7 @@ These dashboards allow business stakeholders to track performance KPIs, understa
 
 📁 Dataset Info
 Includes:
-
+---
 . Order ID, Order Date, Ship Date
 
 . Sales, Profit, Discount, Quantity
@@ -94,7 +94,7 @@ Includes:
 
 
 📈 Insights Gained
-
+---
 . 📦 Phones and Office Supplies generate the highest sales.
 
 . 🌎 The West region leads in revenue.
@@ -111,7 +111,7 @@ Includes:
 
 
 🖼 Dashboard Preview
-
+---
 🔹 Sales Overview
 
 🔹 Sales Forecast
@@ -122,7 +122,7 @@ Includes:
 
 
 ✅ Conclusion
-
+---
 This project demonstrates the power of data visualization and forecasting in helping businesses:
 
 . Track performance
