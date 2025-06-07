@@ -2,7 +2,10 @@
 ---
 This Power BI project offers a comprehensive analysis of Super Store sales performance along with a 15-day future sales forecast. It provides key business insights using interactive visuals, enabling data-driven decision-making.
 
-
+🎯 Objective
+---
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, 
+to provide insights and accurate sales forecasting
 
 🧾 Project Description
 ---
