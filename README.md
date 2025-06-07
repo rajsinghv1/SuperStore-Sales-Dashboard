@@ -17,6 +17,7 @@ These dashboards allow business stakeholders to track performance KPIs, understa
 
 
 🔍 Features
+
 📌 Dashboard 1: Sales Overview
 . Key Metrics (KPIs):
 
@@ -49,6 +50,7 @@ These dashboards allow business stakeholders to track performance KPIs, understa
 
 
 🔮 Dashboard 2: 15-Day Sales Forecast
+
 . Forecasting using historical data trends
 
 . Visualizes:
@@ -68,6 +70,7 @@ These dashboards allow business stakeholders to track performance KPIs, understa
 
 
 🧰 Tools Used
+
 . Power BI Desktop
 
 . DAX for calculated columns/measures
@@ -91,6 +94,7 @@ Includes:
 
 
 📈 Insights Gained
+
 . 📦 Phones and Office Supplies generate the highest sales.
 
 . 🌎 The West region leads in revenue.
@@ -107,6 +111,7 @@ Includes:
 
 
 🖼 Dashboard Preview
+
 🔹 Sales Overview
 
 🔹 Sales Forecast
@@ -117,6 +122,7 @@ Includes:
 
 
 ✅ Conclusion
+
 This project demonstrates the power of data visualization and forecasting in helping businesses:
 
 . Track performance
