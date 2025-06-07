@@ -112,4 +112,3 @@ This project highlights the power of data visualization and forecasting in helpi
 
 ---
 
-> 📌 Feel free to fork this project, suggest improvements, or connect with me on [LinkedIn](https://www.linkedin.com/).
