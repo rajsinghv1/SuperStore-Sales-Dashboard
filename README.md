@@ -1,138 +1,115 @@
-📊 Super Store Sales Dashboard & Forecast
+# 📊 Super Store Sales Dashboard & Forecast
+
+This Power BI project presents a comprehensive analysis of Super Store sales performance along with a 15-day sales forecast. It delivers actionable insights using interactive visuals to support data-driven decision-making.
+
 ---
-This Power BI project offers a comprehensive analysis of Super Store sales performance along with a 15-day future sales forecast. It provides key business insights using interactive visuals, enabling data-driven decision-making.
 
-🎯 Objective
+## 🎯 Objective
+
+To **contribute to the success of a business** by utilizing **data analysis techniques**, specifically focusing on **time series analysis**, to provide **insights** and **accurate sales forecasting**.
+
 ---
-To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, 
-to provide insights and accurate sales forecasting
 
-🧾 Project Description
+## 🧾 Project Description
+
+This project is structured into two interactive dashboards:
+
+1. **Super Store Sales Dashboard**
+2. **Super Store Sales Forecast (15 Days)**
+
+These dashboards empower stakeholders to monitor KPIs, explore customer behavior, and predict future sales using historical data trends.
+
 ---
-This project is divided into two interactive dashboards:
 
-1. Super Store Sales Dashboard
+## 🔍 Features
 
-2. Super Store Sales Forecast (15 Days)
+### 📌 Dashboard 1: Sales Overview
 
-These dashboards allow business stakeholders to track performance KPIs, understand customer behavior, and forecast future sales using historical trends.
+**Key Metrics (KPIs):**
+- 📦 Orders: 1.6M  
+- 💰 Sales: 22K  
+- 🏆 Profit: 175K  
+- 🚚 Average Ship Days: 4  
 
+**Monthly Trends:**
+- Monthly Sales & Profit comparison (2019 vs 2020)
 
+**Sales Breakdown:**
+- **By Region:** West (33%), East (29%), Central (22%), South (16%)
+- **By Segment:** Consumer (48%), Corporate (33%), Home Office (19%)
+- **By Payment Mode:** COD (43%), Online (35%), Cards (22%)
+- **By Ship Mode:** Standard, Second, First Class, Same Day
+- **By Category/Sub-Category:** Phones (0.20M), Chairs (0.18M), Binders (0.17M)
+- **Sales vs Profit by State**
 
-🔍 Features
 ---
-📌 Dashboard 1: Sales Overview
-. Key Metrics (KPIs):
 
-📦 Orders: 1.6M
+### 🔮 Dashboard 2: 15-Day Sales Forecast
 
-💰 Sales: 22K
+- Built using time series analysis on historical data  
+- **Visualizations include:**
+  - Daily sales forecast (Jan 2021)
+  - Total forecasted sales for the next 15 days
 
-🏆 Profit: 175K
+**Top Performing States:**
+- 📍 California: 0.22M  
+- 📍 New York: 0.12M  
+- 📍 Texas, Washington, Pennsylvania, and others follow
 
-🚚 Average Ship Days: 4
-
-. Monthly Trends:
-
-. Monthly Sales and Profit comparison by Year (2019 vs 2020)
-
-. Sales Breakdown:
-
-. By Region: West (33%), East (29%), etc.
-
-. By Segment: Consumer (48%), Corporate (33%), Home Office (19%)
-
-. By Payment Mode: Online (35%), COD (43%), Cards (22%)
-
-. By Ship Mode: Standard, Second, First Class, Same Day
-
-. By Category & Sub-Category: Phones (0.20M), Chairs (0.18M), etc.
-
-. Sales vs Profit by State
-
-
-
-🔮 Dashboard 2: 15-Day Sales Forecast
 ---
-. Forecasting using historical data trends
 
-. Visualizes:
+## 🧰 Tools Used
 
-. Daily Sales Forecast
+- **Power BI Desktop**
+- **Power Query Editor** (for data transformation)
+- **DAX** (for calculated columns and measures)
+- **Forecasting Visuals** (for time series prediction)
 
-. Total Forecasted Sales for next 15 days
-
-. Top Performing States:
-
-. California: 0.22M
-
-. New York: 0.12M
-
-. Texas, Washington, Pennsylvania, and others
-
-
-
-🧰 Tools Used
 ---
-. Power BI Desktop
 
-. DAX for calculated columns/measures
+## 📁 Dataset Info
 
-. Power Query Editor for data transformation
+The dataset includes:
+- Order ID, Order Date, Ship Date
+- Sales, Profit, Discount, Quantity
+- Region, Segment, Category, Sub-Category
+- Ship Mode, Customer Info, State
 
-. Forecasting Visuals for prediction analysis
-
-
-📁 Dataset Info
-Includes:
 ---
-. Order ID, Order Date, Ship Date
 
-. Sales, Profit, Discount, Quantity
+## 📈 Insights Gained
 
-. Region, Segment, Category, Sub-Category
+- 📦 Phones and Office Supplies generate the highest revenue
+- 🌎 The **West region** leads in total sales
+- 🧾 **COD and Online** are the most used payment methods
+- 📉 Forecast indicates a **short dip followed by growth** in early Jan 2021
+- 🚀 **California** is the top-performing state in both actual and forecasted sales
 
-. Ship Mode, Customer Info, State
-
-
-
-📈 Insights Gained
 ---
-. 📦 Phones and Office Supplies generate the highest sales.
 
-. 🌎 The West region leads in revenue.
+## 🖼 Dashboard Preview
 
-. 🧾 Online and COD are the preferred payment modes.
+🔹 Super Store Sales Overview  
+🔹 15-Day Sales Forecast  
+*(Replace this with dashboard images or `.pbix` links)*
 
-. 📉 Forecast reveals a slight dip followed by growth in early January 2021.
-
-. 🚀 California is the top state in both current and forecasted sales.
-
-
-
-
-
-
-🖼 Dashboard Preview
 ---
-🔹 Sales Overview
 
-🔹 Sales Forecast
+## ✅ Conclusion
 
-💡 Replace image paths with your actual file names in the repo.
+This project highlights the power of data visualization and forecasting in helping businesses:
 
+- 📍 Track real-time performance  
+- 📍 Predict future trends  
+- 📍 Make better strategic decisions  
 
-
-
-✅ Conclusion
 ---
-This project demonstrates the power of data visualization and forecasting in helping businesses:
 
-. Track performance
+## 📎 Files
 
-. Predict trends
+- `SuperStore Sales Dashboard.pdf`  
+- `Super Store Sales Forecast-15 Days Forecast.pdf`
 
-. Make better strategic decisions
+---
 
-
-
+> 📌 Feel free to fork this project, suggest improvements, or connect with me on [LinkedIn](https://www.linkedin.com/).
