@@ -26,8 +26,8 @@ These dashboards empower stakeholders to monitor KPIs, explore customer behavior
 ### 📌 Dashboard 1: Sales Overview
 
 **Key Metrics (KPIs):**
-- 📦 Orders: 1.6M  
-- 💰 Sales: 22K  
+- 📦 Orders: 22K 
+- 💰 Sales: 1.6M
 - 🏆 Profit: 175K  
 - 🚚 Average Ship Days: 4  
 
