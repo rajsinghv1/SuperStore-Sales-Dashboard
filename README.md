@@ -1,4 +1,4 @@
-# 📊 Super Store Sales Dashboard & Forecast
+# 📊 Super Store Sales Dashboard & 15-Day Forecast
 
 This Power BI project presents a comprehensive analysis of Super Store sales performance along with a 15-day sales forecast. It delivers actionable insights using interactive visuals to support data-driven decision-making.
 
@@ -15,7 +15,9 @@ To **contribute to the success of a business** by utilizing **data analysis tech
 This project is structured into two interactive dashboards:
 
 1. **Super Store Sales Dashboard**
-2. **Super Store Sales Forecast (15 Days)**
+      .Tracks KPIs, customer behavior, and sales trends.
+3. **Super Store Sales Forecast (15 Days)**
+      .Uses historical data to predict near-future sales.
 
 These dashboards empower stakeholders to monitor KPIs, explore customer behavior, and predict future sales using historical data trends.
 
@@ -95,20 +97,24 @@ The dataset includes:
 
 ---
 
-## ✅ Conclusion
+✅ Business Impact
+This project demonstrates how effective dashboards and time series forecasting can help businesses:
 
-This project highlights the power of data visualization and forecasting in helping businesses:
+. Monitor real-time performance
 
-- 📍 Track real-time performance  
-- 📍 Predict future trends  
-- 📍 Make better strategic decisions  
+. Forecast future trends
+
+. Identify high-performing segments
+
+. Support data-backed decision-making  
 
 ---
 
 ## 📎 Files
 
-- `SuperStore Sales Dashboard.pdf`  
-- `Super Store Sales Forecast-15 Days Forecast.pdf`
+SuperStore_Sales_Dashboard.pdf
+
+SuperStore_15Day_Sales_Forecast.pdf
 
 ---
 
