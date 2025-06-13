@@ -10,7 +10,7 @@ To **contribute to the success of a business** by utilizing **data analysis tech
 
 ---
 
-📊 Dashboard Sections
+## 📊 Dashboard Sections
 1. Super Store Sales Dashboard
 . Tracks key performance indicators (KPIs)
 
@@ -107,7 +107,7 @@ The dataset includes:
 
 ---
 
-✅ Business Impact
+## ✅ Business Impact
 This project demonstrates how effective dashboards and time series forecasting can help businesses:
 
 . Monitor real-time performance
