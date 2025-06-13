@@ -110,13 +110,13 @@ The dataset includes:
 ## ✅ Business Impact
 This project demonstrates how effective dashboards and time series forecasting can help businesses:
 
-. Monitor real-time performance
+- Monitor real-time performance
 
-. Forecast future trends
+- Forecast future trends
+  
+- Identify high-performing segments
 
-. Identify high-performing segments
-
-. Support data-backed decision-making  
+- Support data-backed decision-making  
 
 ---
 
