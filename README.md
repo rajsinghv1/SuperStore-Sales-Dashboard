@@ -12,22 +12,22 @@ To **contribute to the success of a business** by utilizing **data analysis tech
 
 ## 📊 Dashboard Sections
 1. Super Store Sales Dashboard
-. Tracks key performance indicators (KPIs)
+  . Tracks key performance indicators (KPIs)
 
-. Analyzes customer behavior by region, segment, and category
+  . Analyzes customer behavior by region, segment, and category
 
-. Visualizes monthly trends in sales and profit
+  . Visualizes monthly trends in sales and profit
 
-. Breaks down performance by payment mode, ship mode, and product category
+  . Breaks down performance by payment mode, ship mode, and product category
 
 2. Super Store Sales Forecast (15 Days)
-. Applies time series analysis to historical data
+  . Applies time series analysis to historical data
 
-. Predicts daily sales for a 15-day period (January 2021)
+  . Predicts daily sales for a 15-day period (January 2021)
 
-. Highlights forecasted revenue by state
+  . Highlights forecasted revenue by state
 
-. Assists in short-term planning and inventory decisions
+  . Assists in short-term planning and inventory decisions
 
 These dashboards empower stakeholders to monitor KPIs, explore customer behavior, and predict future sales using historical data trends.
 
