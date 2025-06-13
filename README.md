@@ -11,7 +11,7 @@ To **contribute to the success of a business** by utilizing **data analysis tech
 ---
 
 ## 📊 Dashboard Sections
-# 1. Super Store Sales Dashboard
+### 1. Super Store Sales Dashboard
   . Tracks key performance indicators (KPIs)
 
   . Analyzes customer behavior by region, segment, and category
@@ -20,7 +20,7 @@ To **contribute to the success of a business** by utilizing **data analysis tech
 
   . Breaks down performance by payment mode, ship mode, and product category
 
-# 2. Super Store Sales Forecast (15 Days)
+### 2. Super Store Sales Forecast (15 Days)
   . Applies time series analysis to historical data
 
   . Predicts daily sales for a 15-day period (January 2021)
