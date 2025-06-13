@@ -103,7 +103,6 @@ The dataset includes:
 
 🔹 Super Store Sales Overview  
 🔹 15-Day Sales Forecast  
-*(Replace this with dashboard images or `.pbix` links)*
 
 ---
 
