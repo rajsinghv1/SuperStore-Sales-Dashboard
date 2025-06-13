@@ -15,9 +15,9 @@ To **contribute to the success of a business** by utilizing **data analysis tech
 This project is structured into two interactive dashboards:
 
 1. **Super Store Sales Dashboard**
-      .Tracks KPIs, customer behavior, and sales trends.
+   .Tracks KPIs, customer behavior, and sales trends.
 3. **Super Store Sales Forecast (15 Days)**
-      .Uses historical data to predict near-future sales.
+   .Uses historical data to predict near-future sales.
 
 These dashboards empower stakeholders to monitor KPIs, explore customer behavior, and predict future sales using historical data trends.
 
